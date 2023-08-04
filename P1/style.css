@@ -1,0 +1,16 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+}
+div button{
+    padding: 10px;
+border: solid black 10px;
+border-radius: 20px;
+}
+
+div button:hover{
+border: solid black 5px;
+
+}
